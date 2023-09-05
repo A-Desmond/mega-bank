@@ -1,0 +1,4 @@
+enum TnxType {
+  debit,
+  credit,
+}
